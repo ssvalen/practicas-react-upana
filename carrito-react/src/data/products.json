@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "price": 1299,
+    "category": "Tecnología",
+    "image": "https://walmartgt.vtexassets.com/arquivos/ids/413882/Telefono-Celular-Apple-Iphone-15-128Gb-3-67145.jpg?v=638937250629900000"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "price": 1199,
+    "category": "Tecnología",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSBWGybcgfwwpjYEB_9lWZwd0zsoew3E5eww&s"
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro M3",
+    "price": 2499,
+    "category": "Tecnología",
+    "image": "https://istore.gt/wp-content/uploads/2023/11/EC00155.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dell XPS 15",
+    "price": 1899,
+    "category": "Tecnología",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODZjsUrOL8fy-5sldAOSc9UMOULHN07yqFg&s"
+  },
+  {
+    "id": 5,
+    "name": "Mouse Logitech G502",
+    "price": 79,
+    "category": "Tecnología",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CnSJMAs36e-wQ1ftfdXhhzcXKbTb959QWA&s"
+  },
+  {
+    "id": 6,
+    "name": "Teclado Keychron K2",
+    "price": 1633,
+    "category": "Tecnología",
+    "image": "https://cdn.kemik.gt/2025/03/61ioq+AEmlL.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Monitor LG UltraWide",
+    "price": 420,
+    "category": "Tecnología",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPNUitgBLdPz9C2mAYyfu0Gz1hzmgQ6f0oYw&s"
+  },
+  {
+    "id": 8,
+    "name": "Sony WH-1000XM5",
+    "price": 399,
+    "category": "Tecnología",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO7q-Gs-ACBDcZPgGYKLnv1MLfVoJ_3V4ElQ&s"
+  },
+  {
+    "id": 11,
+    "name": "Chumpa Nike",
+    "price": 555,
+    "category": "Ropa",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAagXHN657BXWZ0xnkfiduCLFYsUm1DxrTw&s"
+  },
+  {
+    "id": 12,
+    "name": "Chumpa Adidas",
+    "price": 695,
+    "category": "Ropa",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZFF7Z0QLa-6h_KHyqgz2Eh3woml2PL_fkpQ&s"
+  },
+  {
+    "id": 13,
+    "name": "Camisa Polo Ralph Lauren",
+    "price": 89,
+    "category": "Ropa",
+    "image": "https://img.pacifiko.com/PROD/resize/1/500x500/YWNmZTQ2M2.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Jeans Levi's 501",
+    "price": 70,
+    "category": "Ropa",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6XM0Qh2JQN50TlOXCGmb67vCxuKFJag02zA&s"
+  },
+  {
+    "id": 15,
+    "name": "Vestido Zara",
+    "price": 65,
+    "category": "Ropa",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc0IKMn90ZMjv2QojeeejH62lr31Eqix3G5Q&s"
+  },
+  {
+    "id": 16,
+    "name": "Gorra New Era",
+    "price": 135,
+    "category": "Ropa",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLzqHJIRC9T5J7VKUJQztNOVpbfU7hEVpI5g&s"
+  },
+  {
+    "id": 17,
+    "name": "Nike Air Max",
+    "price": 860,
+    "category": "Calzado",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPYOgOTZMatkRxo2EdhnbE14Lxs10qNgCDMA&s"
+  },
+  {
+    "id": 18,
+    "name": "Adidas Ultraboost",
+    "price": 1180,
+    "category": "Calzado",
+    "image": "https://decatlonx.com/image/cache/catalog/JQ29111FOOTWEARPhotographySide-Lateral-Center-Viewtransparent-800x800.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Sillon",
+    "price": 3499,
+    "category": "Hogar",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4LkZXpEhRbsZGTM_b2McGan9vqnlcnIR9TA&s"
+  },
+  {
+    "id": 22,
+    "name": "Mesa de Centro",
+    "price": 1250,
+    "category": "Hogar",
+    "image": "https://siman.vtexassets.com/arquivos/ids/6912467-800-auto?v=638832608747870000&width=800&height=auto&aspect=true"
+  }
+]
